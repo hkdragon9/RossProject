@@ -44,6 +44,12 @@ public class Number2
 	
 	
 	
+	
+	public void TESTGIT()
+	{
+		System.out.println("AHHAHAHAH");
+	}
+	
 	public static void main(String[] args) 
 	{
 		
